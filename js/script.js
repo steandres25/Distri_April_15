@@ -1,3 +1,4 @@
+// New comment inside script.js 
 document.addEventListener("DOMContentLoaded", () => {
   const pokemonContainer = document.querySelector('.container-pokemones');
   const infoContainer = document.getElementById("info-pokemon");
